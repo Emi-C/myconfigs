@@ -1,4 +1,5 @@
 {
+    "files.trimTrailingWhitespace": true,
     "editor.minimap.enabled": true,
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
